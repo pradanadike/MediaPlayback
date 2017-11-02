@@ -184,7 +184,7 @@ class Sample {
 
         return reader;
     }
-// ya
+
     // Getters and Setters
 
     String getTitle() {
